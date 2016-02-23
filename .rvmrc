@@ -1,0 +1,3 @@
+rvm use 2.3.0
+rvm gemset use airsofteam --create
+rvm_trust_rvmrcs_flag=1
